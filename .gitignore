@@ -1,0 +1,26 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Colcon / ROS
+.colcon/
+*.bag
+*.bag.active
+
+# VS Code 
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
