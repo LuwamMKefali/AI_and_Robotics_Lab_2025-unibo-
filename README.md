@@ -1,2 +1,3 @@
 # AIRob-2025(AI and Robotics)
-### A repository to track and document the laboratory experiment and project, for the AI and Robotics course, for Master's in AI at University of Bologna. 
+Laboratory solutions in the "AI and Robotics" course of the AI International Masters at UniBo.
+Course held by Prof. Alessandro Saffioti.
