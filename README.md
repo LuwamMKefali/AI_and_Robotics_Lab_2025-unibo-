@@ -5,6 +5,10 @@
 
 # Hybrid Planning and Semantic Reasoning for Mobile Agents
 
+> **Academic Context:** Developed as part of the *Artificial Intelligence and Robotics (2025)* curriculum at the **Alma Mater Studiorum – University of Bologna**, under the direction of **Prof. Alessandro Saffiotti**.
+
+This repository contains the implementation of an autonomous cognitive robotic agent built in ROS2 and Gazebo. Designed as a complete **Sense-Plan-Act** system, the agent bridges high-level symbolic reasoning with low-level reactive control to navigate, manipulate objects, and recover from failures in unconstrained, multi-room environments.
+
 [Overview](#overview) · [Key Features](#-key-features) · [Architecture](#-system-architecture-sense-plan-act) · [Tech Stack](#️-tech-stack) · [Repository Structure](#-repository-structure) · [Installation](#️-installation--usage) · [Demo](#-demo) · [Evaluation](#-evaluation--testing) · [Author](#-author)
 
 ---
