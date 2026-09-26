@@ -59,7 +59,7 @@ The agent receives a high-level task, generates an HTN plan, and executes it wit
 * **Planning & Reasoning:** Pyhop (HTN Planner), OWL, `rdflib`, `owlrl` (HermiT reasoner)
 * **Control:** Custom Fuzzy Logic Engine
 
-## 📂 Repository Structure
+## 📂 Classes and Functions
 * `/htn_domain/` - Pyhop domain definitions, methods, and operators for multi-room navigation and object manipulation.
 * `/fuzzy_control/` - Fuzzy predicates, linguistic variables, and rule bases for reactive behaviors (`GoTo`, `CrossDoor`, `Wander`).
 * `/semantic_map/` - Turtle (`.ttl`) ontology files defining the environment, rooms, and object classifications.
