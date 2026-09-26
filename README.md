@@ -1,3 +1,8 @@
+![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-FF6600?style=flat)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
 # Hybrid Planning and Semantic Reasoning for Mobile Agents
 
 > **Academic Context:** Developed as part of the *Artificial Intelligence and Robotics (2025)* curriculum at the **Alma Mater Studiorum – University of Bologna**, under the direction of **Prof. Alessandro Saffiotti**.
@@ -22,7 +27,7 @@ The agent receives a high-level task, generates an HTN plan, and executes it wit
 
 <video src="media/Lab4_table1.gif" controls="controls" muted="muted" style="max-width: 100%;"></video>
 
-*A second target in a different room, exercising a different door sequence.*
+*A second target in the same room.*
 
 ## 🚀 Key Features
 
