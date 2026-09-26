@@ -77,13 +77,13 @@ The agent receives a high-level task, generates an HTN plan, and executes it wit
    ```bash
    source /path/to/air-environment/install/setup.bash
 
-**Launch the Gazebo world:**
+2. **Launch the Gazebo world:**
 
 ```bash
 ros2 launch air_environment apartment.launch.py
 ```
 
-**Run the cognitive agent (Top-Level SPA Loop):**
+3. **Run the cognitive agent (Top-Level SPA Loop):**
 
 ```bash
 python3 main_agent.py --task "transport box1 kitchen" --debug 2
