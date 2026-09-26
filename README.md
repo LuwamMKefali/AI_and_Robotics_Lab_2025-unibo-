@@ -17,11 +17,15 @@ Unlike standard end-to-end deep learning navigation systems, this project relies
 
 The agent receives a high-level task, generates an HTN plan, and executes it with fuzzy reactive control.
 
-**Navigate to Bed**
+**Navigate to Bed (Parts 1 & 2)**
 
-![Navigate to Bed](media/maps-to-bed.mp4)
-
-*The agent plans through doors D1 and D2 and executes the route to Bed1 in Room 1.*
+<p align="center">
+  <img src="media/lab4_bed1_part 1.gif" alt="Bed Part 1" width="48%">
+  <img src="media/lab4_bed1_part 2.gif" alt="Bed Part 2" width="48%">
+</p>
+<p align="center">
+  <em>Left: The agent generates the HTN plan and begins navigating. Right: The agent completes the route to Bed1.</em>
+</p>
 
 **Navigate to Table 1**
 
