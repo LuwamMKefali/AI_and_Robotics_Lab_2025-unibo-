@@ -19,13 +19,13 @@ The agent receives a high-level task, generates an HTN plan, and executes it wit
 
 **Navigate to Bed**
 
-<video src="media/maps-to-bed.mp4" controls="controls" muted="muted" style="max-width: 100%;"></video>
+!(media/maps-to-bed.mp4)
 
 *The agent plans through doors D1 and D2 and executes the route to Bed1 in Room 1.*
 
 **Navigate to Table 1**
 
-<video src="media/Lab4_table1.gif" controls="controls" muted="muted" style="max-width: 100%;"></video>
+!(media/Lab4_table1.gif)
 
 *A second target in the same room.*
 
